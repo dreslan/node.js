@@ -6,4 +6,6 @@ node_js:
 # configure notifications (email, IRC, campfire etc)
 notifications:
   email: true
+  on_success: always
+  on_failure: always
 
