@@ -1,9 +1,10 @@
 language: node_js
 
+node_js:
+  - 0.6
+
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!
 notifications:
   email: true
-  on_success: always
-  on_failure: always
 
